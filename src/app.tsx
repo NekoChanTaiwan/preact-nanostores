@@ -15,7 +15,7 @@ export function App() {
         <a href='https://preactjs.com' target='_blank'>
           <img src={preactLogo} class='logo preact' alt='Preact logo' />
         </a>
-        <a href='https://preactjs.com' target='_blank'>
+        <a href='https://github.com/nanostores/nanostores' target='_blank'>
           <img
             src={nanoStoresLogo}
             class='logo nanostores'
